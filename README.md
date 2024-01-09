@@ -1,1 +1,1 @@
-# merge-challenge hello, i'm testing a conflict here.
+LOCAL # merge-challenge hello, i'm testing a conflict here.
