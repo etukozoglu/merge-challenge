@@ -1,1 +1,1 @@
-# merge-challenge hello, i'm testing a conflict here.
+REMOTE # merge-challenge hello, i'm testing a conflict here.
